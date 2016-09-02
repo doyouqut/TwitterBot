@@ -7,6 +7,8 @@ import path from 'path';
 import browserify from 'browserify-middleware';
 import sassMiddleware from 'node-sass-middleware';
 
+const theTwitter = require(path.join(__dirname, 'helpers', 'twitterHelper.js'));
+
 const config = require('./config.json');
 
 const app = express();

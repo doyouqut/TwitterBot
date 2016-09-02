@@ -3,6 +3,6 @@
 /bower_components/
 npm-debug.log
 /target/
-
+secrets.json
 /public/
 /src/public
