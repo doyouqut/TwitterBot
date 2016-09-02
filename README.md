@@ -8,11 +8,12 @@ TODO: Write a project description
 
 ## Installation
 
-TODO: Describe the installation process
+1. `npm install`
+2. Create a `secrets.json` with the format: `{'CONSUMER': {'KEY': ..., 'SECRET': ...}, 'ACCESS': {'TOKEN': ..., 'SECRET': ...}}`
 
 ## Usage
 
-TODO: Write usage instructions
+1. `npm start`
 
 ## Contributing
 This project uses git flow, git-flow are a set of git extensions to provide high-level repository operations for Vincent Driessen's branching model.
@@ -21,12 +22,12 @@ Find a cheatcheat over at http://danielkummer.github.io/git-flow-cheatsheet/
 
 ## History
 
-TODO: Write history
+Once upon a time there wasa nothing. Then there was a big bang. TBC
 
 ## Credits
 
-TODO: Write credits
+CodeNetwork 2016
 
 ## License
 
-TODO: Write license
+MIT, refer to LICENSE
